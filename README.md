@@ -1,6 +1,5 @@
 # ComfyUI Dockerfile
 
-## Description
 This repository contains a Dockerfile to build a Docker container that runs **ComfyUI**.
 
 ### Includes:
@@ -70,4 +69,8 @@ To access the ComfyUI WebUI, open [localhost:8188](http://localhost:8188) in you
     Replace `<host-path>` with the local path of your model and `<model-type>` with the appropriate directory inside the container.
 
 ## Further Instructions
-For more detailed usage instructions, refer to the [ComfyUI documentation](https://github.com/comfyanonymous/ComfyUI).
+For more detailed usage instructions, refer to the following documentations:
+[ComfyUI](https://docs.comfy.org)
+[ComfyUI-Manager](https://github.com/ltdrdata/ComfyUI-Manager)
+[Docker](https://docs.docker.com/)
+
